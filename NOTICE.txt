@@ -1,0 +1,35 @@
+Natural voices — third-party notices
+
+Model: Kyutai Pocket TTS
+Copyright Kyutai. Model weights licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+https://huggingface.co/kyutai/pocket-tts
+https://creativecommons.org/licenses/by/4.0/
+
+ONNX export: KevinAHM/pocket-tts-onnx
+Export code: Apache License 2.0. Model weights: CC BY 4.0.
+https://huggingface.co/KevinAHM/pocket-tts-onnx
+https://www.apache.org/licenses/LICENSE-2.0
+
+Shipped voice embeddings:
+https://huggingface.co/kyutai/pocket-tts-without-voice-cloning
+Alba — Alba MacKenna, CC BY 4.0
+Anna — VCTK, CC BY 4.0
+Mary — VCTK, CC BY 4.0
+Vera — VCTK, CC BY 4.0
+George — VCTK, CC BY 4.0
+Michael — VCTK, CC BY 4.0
+Marius — Unmute voice donation, CC0
+Javert — Unmute voice donation, CC0
+Estelle (French) — Kyutai's own recording, CC0
+Giovanni (Italian) — Common Voice, CC0
+Lola (Spanish) — Common Voice, CC0
+
+Voice sources:
+VCTK: https://datashare.ed.ac.uk/handle/10283/3443
+Alba MacKenna: https://huggingface.co/kyutai/pocket-tts
+Unmute donations: https://unmute.sh/
+Common Voice: https://commonvoice.mozilla.org/
+Kyutai: https://kyutai.org/
+CC0: https://creativecommons.org/publicdomain/zero/1.0/
+
+Only CC0 and CC BY 4.0 voice embeddings are distributed. Voice audio is generated locally; this app does not provide voice cloning.
