@@ -32,7 +32,7 @@ Common Voice: https://commonvoice.mozilla.org/
 Kyutai: https://kyutai.org/
 CC0: https://creativecommons.org/publicdomain/zero/1.0/
 
-Only CC0 and CC BY 4.0 voice embeddings are distributed. Voice audio is generated locally; this app does not provide voice cloning.
+Only CC0 and CC BY 4.0 voice embeddings are distributed. Voice audio is generated locally; the Natural voices do not provide voice cloning.
 
 
 Standard voices — third-party notices
@@ -44,3 +44,15 @@ Model weights licensed under the BigScience OpenRAIL-M licence, dated August 18,
 The files are unmodified. Their use is subject to the use-based restrictions in paragraph 5 and Attachment A
 of that licence, and that condition passes on to everyone the files are distributed to.
 The upstream sample code is MIT-licensed and is not mirrored here.
+
+
+Studio voices — third-party notices
+
+Model: Qwen3-TTS 12Hz 0.6B Base
+Published by Qwen. Licensed under the Apache License, Version 2.0: see Apache-2.0-LICENSE.txt.
+https://huggingface.co/Qwen/Qwen3-TTS-12Hz-0.6B-Base
+
+MLX conversions (8-bit and 4-bit), Apache License 2.0:
+https://huggingface.co/mlx-community/Qwen3-TTS-12Hz-0.6B-Base-8bit (commit 50f45ef0047cde7e84c2ef04326acb8ada2436a7)
+https://huggingface.co/mlx-community/Qwen3-TTS-12Hz-0.6B-Base-4bit (commit 0d6bb6fe33f92d47a507e23b9148940e8366ab5b)
+The files are unmodified copies of those conversions.
